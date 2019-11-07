@@ -1,0 +1,35 @@
+#h{
+    text-align: center;
+}
+.item{
+    border: 1px solid black;
+    padding: 2%;
+    width: 20%;
+    float: left;
+    height: 350px;
+}
+.img-fluid{
+    max-width: 100%; 
+}
+.productItem, .btn{
+    border: 1px solid black;
+    text-decoration: none;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;
+}
+.remove{
+    background-color: red;
+}
+td{
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+th{
+    text-align: center;
+    font-size: 1.3em;
+    border: 1px solid black;
+}
